@@ -20,5 +20,6 @@ print(itemstobuy[0:-3])#Sliicing
 
 #Chnaging the values in list
 
-itemstobuy[2]="wicket"
+itemstobuy[2]="wickets"
+print("")
 print(itemstobuy)
