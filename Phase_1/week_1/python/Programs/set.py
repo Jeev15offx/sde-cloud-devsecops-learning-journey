@@ -4,7 +4,7 @@ print(emptyset)
 print(type(emptyset))
 
 #Values in the set
-values={"Xlr8","Jetray","Fourarms","Greymatter","Xlr8","Bigchill",10,11.5}
+values={"Xlr8","Jetray","Fourarms","Greymatter","Xlr8","Rath",10,11.5}
 print("")
 print(values)
 print(type(values))
