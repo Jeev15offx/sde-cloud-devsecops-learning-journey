@@ -16,6 +16,7 @@ print("")
 print (itemstobuy)
 print("")
 print(type(itemstobuy))
+print("Length of the list is:")
 print(len(itemstobuy))#Length of the list
 print(itemstobuy[0:-3])#Sliicing
 
