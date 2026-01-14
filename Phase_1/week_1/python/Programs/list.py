@@ -14,7 +14,9 @@ print(type(empty_list))
 itemstobuy=["Bat","Ball","Stump","Helmet","Ball",6.75,18]
 print("")
 print (itemstobuy)
+print("")
 print(type(itemstobuy))
+print("Length of the list is:")
 print(len(itemstobuy))#Length of the list
 print(itemstobuy[0:-3])#Sliicing
 
